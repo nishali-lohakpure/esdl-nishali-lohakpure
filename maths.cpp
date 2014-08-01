@@ -5,4 +5,5 @@ int a,b;
 cout<<"enter 2 nos";
 cin>>a>>b;
 cout <<"sum is:"<<a+b;
+cout<<"difference is:"<<a-b;
 }
